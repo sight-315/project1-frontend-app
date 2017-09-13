@@ -6,6 +6,7 @@ function answer(){
     // 文字列として結合 
     // var result = input1.value + input2.value; 
     // 整数として足し算 
-    var result = parseInt(input1.value) - parseInt(input2.value); 
-    output.textContent = result 
+    var result = parseInt(input1.value) / parseInt(input2.value); 
+    output.textContent = result
+    result = (int)(f + 0.5);
 }  
